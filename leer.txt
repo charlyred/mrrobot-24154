@@ -1,1 +1,2 @@
-Estamos aprendiendo Git
+Estamos aprendiendo Git.
+Espero que me estén siguiendo...
